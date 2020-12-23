@@ -1,0 +1,6 @@
+# directories ---------------
+# `npm` packages
+node_modules
+# files ---------------------
+# logs
+*.log

@@ -1,0 +1,10 @@
+# directories ---------------
+# `husky` Git hooks
+.husky
+# `npm` packages
+node_modules
+# files ---------------------
+*.nix
+.editorconfig
+.gitignore
+.prettierignore
