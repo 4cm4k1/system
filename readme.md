@@ -59,9 +59,11 @@ if [[ $(uname -s) == 'Darwin' ]]; then
   # `nix-darwin`
   nix-build https://github.com/LnL7/nix-darwin/archive/master.tar.gz -A installer
   ./result/bin/darwin-installer
-  # `home-manager`
+  # add channels
   nix-channel --add https://github.com/nix-community/home-manager/archive/release-20.09.tar.gz home-manager
+  nix-channel --add https://nixos.org/channels/nixpkgs-20.09-darwin nixpkgs-20.09-darwin
   nix-channel --update
+  # `home-manager`
   nix-shell '<home-manager>' -A install
 else
   echo 'This is intended for macOS!'
