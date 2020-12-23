@@ -1,7 +1,7 @@
 {
   "name": "system",
   "version": "0.0.1",
-  "description": "my nix, nix-darwin, and home-manager based reproducible system configuration for macOS",
+  "description": "my `nix`, `nixpkgs`, `nix-darwin`, and `home-manager`-based reproducible system configuration for macOS",
   "main": "default.nix",
   "repository": "https://github.com/4cm4k1/system",
   "bugs": "https://github.com/4cm4k1/system/issues",

@@ -1,6 +1,10 @@
 # system
 
-> my `nix`, `nix-darwin`, and `home-manager`-based reproducible system configuration for macOS
+> my `nix`, `nixpkgs`, `nix-darwin`, and `home-manager`-based reproducible system configuration for macOS
+
+The idea here is to migrate as much as possible of my dotfiles (e.g., `.zshrc`), package managers (e.g., `brew`), and macOS system configuration to a setup that can be easily, predictably, idempotently, and recoverably declared using `nix`, `nixpkgs`, `nix-darwin`, and `home-manager`. Currently, my effort in that regard exists as [4cm4k1/dotfiles](https://github.com/4cm4k1/dotfiles). This will better organize all of these things and take advantage of the `/nix/store`, enable speedy system bootstrapping, rollbacks, and recovery, and lay a foundation for defining my own Nix expressions when developing.
+
+> inspired in large part by prior art such as [kclejeune/system](https://github.com/kclejeune/system)
 
 ## Table of Contents
 

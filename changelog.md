@@ -21,3 +21,4 @@
   - `package.json`
   - `readme.md`
 - Initializes `package.json` with `npm`
+- Adds notes to `readme.md`
