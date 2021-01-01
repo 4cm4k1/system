@@ -1,5 +1,5 @@
 # directories ---------------
-# `husky` Git hooks
+# `husky` `git` hooks
 .husky
 # `npm` packages
 node_modules

@@ -4,6 +4,9 @@
 
 - Adds front matter to `code_of_conduct.md`
 - Fixes typos in `contributing.md`
+- Adds `pre-commit` script to `package.json`
+- Uses `pre-commit` script in `.husky/pre-commit`
+- Edits `.ignore` files
 
 ## Initial commit
 
