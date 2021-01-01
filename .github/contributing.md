@@ -3,9 +3,9 @@ name: Contributing
 about: Contribute to this project!
 ---
 
-# Contributing to `personal-website`
+# Contributing to `system`
 
-First and foremost, thank you! We appreciate that you want to contribute to `personal-website`, your time is valuable, and your contributions mean a lot to us.
+First and foremost, thank you! We appreciate that you want to contribute to `system`, your time is valuable, and your contributions mean a lot to us.
 
 ## Important!
 
@@ -29,14 +29,14 @@ Creating an issue is the simplest form of contributing to a project. But there a
 
 If you'd like to learn more about contributing in general, the [Guide to Idiomatic Contributing](https://github.com/jonschlinkert/idiomatic-contributing) has a lot of useful information.
 
-**Showing support for `personal-website`**
+**Showing support for `system`**
 
 Please keep in mind that open source software is built by people like you, who spend their free time creating things the rest the community can use.
 
-Don't have time to contribute? No worries, here are some other ways to show your support for `personal-website`:
+Don't have time to contribute? No worries, here are some other ways to show your support for `system`:
 
-- Star the [project](https://github.com/4cm4k1/personal-website).
-- Tweet your support for `personal-website`.
+- Star the [project](https://github.com/4cm4k1/system).
+- Tweet your support for `system`.
 
 ## Issues
 
@@ -70,7 +70,7 @@ Please be as descriptive as possible when creating an issue and use the provided
 
 ### Closing issues
 
-The original poster or the maintainers of `personal-website` may close an issue at any time. Typically, but not exclusively, issues are closed when:
+The original poster or the maintainers of `system` may close an issue at any time. Typically, but not exclusively, issues are closed when:
 
 - The issue is resolved.
 - The project's maintainers have determined the issue is out of scope.
@@ -95,4 +95,4 @@ At the very least, please try to:
 - Use backticks to wrap code. This ensures that it retains its formatting and isn't modified when it's rendered by GitHub and makes the code more readable to others.
 - When applicable, use syntax highlighting by adding the correct language name after the first "code fence."
 
-[so]: http://stackoverflow.com/questions/tagged/personal-website
+[so]: http://stackoverflow.com/questions/tagged/system

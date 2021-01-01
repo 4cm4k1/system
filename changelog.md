@@ -1,5 +1,10 @@
 # Changelog
 
+## 2020-12-31
+
+- Adds front matter to `code_of_conduct.md`
+- Fixes typos in `contributing.md`
+
 ## Initial commit
 
 - Adds default files:
